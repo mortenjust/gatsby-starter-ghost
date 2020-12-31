@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://mortenjust-blog.herokuapp.com",
+    "contentApiKey": "f406e312322c2366af67dde677"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://mortenjust-blog.herokuapp.com",
+    "contentApiKey": "f406e312322c2366af67dde677"
   }
 }
